@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Fuck Exam</string>
+<string-array name="ai_models">
+        <item>Kimi</item>
+        <item>DeepSeek</item>
+        <item>通义千问</item>
+        <item>文心一言</item>
+        <item>Gemini</item>
+    </string-array>
+</resources>
