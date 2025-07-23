@@ -1,5 +1,6 @@
 # FuckExam - 屏幕实时OCR识别与大模型问答助手
 
+| 程序主界面 | 实机演示1 | 实机演示2 |
 |:---:|:---:|:---:|
 | ![程序主界面](https://github.com/user-attachments/assets/40f0cfae-228b-4d8a-9841-d0b3a4bf84ef) | ![实机演示1](https://github.com/user-attachments/assets/7a8cfcd8-3cbb-44ac-8f34-72cb18324706) | ![实机演示2](https://github.com/user-attachments/assets/060cb12b-8642-4665-a359-fce3b71339c3) |
 
