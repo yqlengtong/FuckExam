@@ -1,6 +1,6 @@
 # FuckExam - 屏幕实时OCR识别与大模型问答助手
 
-| ![程序主界面](https://img.jmm0.cn/blog/2025-07-23-fmcb.png) | ![实机演示1](https://img.jmm0.cn/blog/2025-07-23-ubxs.png) | ![实机演示2](https://img.jmm0.cn/blog/2025-07-23-sjvq.png) |
+| ![程序主界面](https://github.com/user-attachments/assets/40f0cfae-228b-4d8a-9841-d0b3a4bf84ef) | ![实机演示1](https://github.com/user-attachments/assets/7a8cfcd8-3cbb-44ac-8f34-72cb18324706) | ![实机演示2](https://github.com/user-attachments/assets/060cb12b-8642-4665-a359-fce3b71339c3) |
 
 
 **FuckExam** 是一款专为需要快速查询和理解屏幕内容的场景设计的安卓应用。它通过一个悬浮球常驻在屏幕上，用户点击悬浮球即可触发全屏截图，并利用本地ML Kit OCR技术识别图中文字，随后将识别结果发送给配置好的大语言模型（如GPT、Gemini等），最终以悬浮窗的形式展示问答结果。这款工具在在线学习、阅读外文资料、应对在线测试等场景下尤其有用。
